@@ -9,11 +9,11 @@ A high-performance pathfinding application that implements the **A* Search algor
 - **Decoupled Architecture:** Modular code structure separating the search engine logic from the rendering window.
 
 ## 📸 Visualization
-> **Note:** Add your screenshots here to show the solver in action!
+> **Note:** Images shown here, change everytime when the python command is run! Therefore, a new output is generated on each run.
 
 | Search in Progress | Final Path Found |
 | :--- | :--- |
-| ![Search Frontier](path/to/your/image1.png) | ![Final Path](path/to/your/image2.png) |
+| ![Search Frontier](screenshots/searching_path.png) | ![Final Path](screenshots/final_path.png) |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
