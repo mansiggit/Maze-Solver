@@ -1,4 +1,4 @@
-# Extreme A* Maze Solver & Visualizer
+# A* Maze Solver & Visualizer
 
 A high-performance pathfinding application that implements the **A* Search algorithm** to solve large, randomized grid-based mazes. This project features a real-time graphical visualization built with **Pygame** to demonstrate the mechanics of informed search frontiers.
 
